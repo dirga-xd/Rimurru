@@ -121,7 +121,7 @@ global.reloadHandler = function () {
     conn.off('group-participants-update', conn.onParticipantsUpdate)
     conn.off('CB:action,,call', conn.onCall)
   }
-  conn.welcome = 'Hai @user\n◪ Welcome in group:\n├─ @subject\n├─ Intro dulu\n├─ ❏ Nama: \n├─ ❏ Umur: \n├─ ❏ Asal kota: \n├─ ❏ Kelas: \n├─ ❏ Jenis kelamin: \nFOLLOW AKUN OWNER\n➣https://www.instagram.com/ythomeanime/\n➣https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw'
+  conn.welcome = 'Hai @user\n◪ Welcome in group:\n├─ @subject\n├─ Intro dulu\n├─ ❏ Nama: \n├─ ❏ Umur: \n├─ ❏ Asal kota: \n├─ ❏ Kelas: \n├─ ❏ Jenis kelamin: \nFOLLOW AKUN OWNER\n➣https://www.instagram.com/dirgasa.xd/'
   conn.bye = 'Selamat Tinggal @user!\nTerimakasih Telah Bergabung Di Grup\n\nKalo Balik Jangan Lupa Bawa Gorengan Buat Anggota Disini'
   conn.spromote = '@user Sekarang Admin!'
   conn.sdemote = '@user Sekarang Bukan Admin!'

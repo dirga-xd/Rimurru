@@ -1,12 +1,12 @@
 let handler = async m => m.reply(`
-┏━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *Smartfren:* [08818770766]
-┣➥ *Tri:* [089520306297]
-┣➥ *Dana:* [08818770766]
-┣➥ *Saweria:* [https://saweria.co/Scaff]
-┃ 「 *Chat OWNER* 」
-┃ > *Ingin donasi? Wa.me/628818770766*
-┗━━━━━━━━━━━━━━━━
+╭─「 Donasi • Pulsa 」
+│ • Telkomnyet [0812-8277-8090]
+│ • Axis [0838-2112-3163]
+╰────
+╭─「 Donasi • Non Pulsa 」
+│ • OVO, Dana [0838-2112-3163]
+│ • https://trakteer.id/xlaw_xd
+╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
